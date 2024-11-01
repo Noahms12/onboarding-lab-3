@@ -1,11 +1,3 @@
-//
-//  Lab3Q2.cpp
-//  PDT_Lab3
-//
-//  Noah Mays-Smith
-//  Used https://github.com/rishyak/potential-computing-machine/blob/main/Labs/3/dv/exercise2.cpp
-//  For assistance during this section
-//
 
 #include <iostream>
 #include <cstdint>
